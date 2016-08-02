@@ -21,7 +21,7 @@ class Student{
     }
 }
 
-//教室类
+//教师类
 class Teacher{
 
     private $teacherId = '';
