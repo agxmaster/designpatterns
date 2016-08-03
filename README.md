@@ -27,7 +27,7 @@
 #### 策略模式strategy
 #### 模板方法模式template
 #### 观察者模式observer
-#### 迭代器模式decorator
+#### 迭代器模式iterator
 #### 责任链模式responsibilityChain
 #### 命令模式command
 #### 备忘录模式memento
